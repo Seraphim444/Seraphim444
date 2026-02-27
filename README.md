@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### 💻 *Serphim/Erick_Barroso*
+### 💻 *Erick_Barroso*
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
      width="90"
