@@ -7,7 +7,7 @@
      width="90"
      alt="Python Logo"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=460&lines=Desenvolvedor+Python;Em+constante+evolução;Apaixonado+por+tecnologia" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=460&lines=Desenvolvedor+Python;Em+constante+evolução;" />
 
 </div>
 
